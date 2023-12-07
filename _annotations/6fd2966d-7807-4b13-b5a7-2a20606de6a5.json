@@ -1,0 +1,54 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0001"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Technician",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ZetOE",
+                "name": "ZetOE"
+            },
+            "created": "2023-12-07T16:26:03.600Z",
+            "modified": "2023-12-07T16:26:11.473Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16,
+                    48
+                ]
+            },
+            "creator": {
+                "id": "ZetOE",
+                "name": "ZetOE"
+            },
+            "created": "2023-12-07T16:26:17.822Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://zetoe.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0001",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=52.0141716003418,163.20506286621094,836.927417755127,2212.781021118164"
+        }
+    },
+    "id": "6fd2966d-7807-4b13-b5a7-2a20606de6a5.json",
+    "motivation": "commenting"
+}
