@@ -1,0 +1,38 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0009"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ZetOE",
+                "name": "ZetOE"
+            },
+            "created": "2023-12-07T16:31:18.641Z",
+            "modified": "2023-12-07T16:31:19.158Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://zetoe.github.io/2023-iiif-workshop/manifests/catalog/technician-basketballpreview-1999/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/technician-basketballpreview-1999_0009",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=279.29266357421875,723.73681640625,771.1986694335938,783.53515625"
+        }
+    },
+    "id": "d8678b7a-0025-435e-ace3-4d65d68e9237.json",
+    "motivation": "commenting"
+}
