@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-12-07 16:36:48.406582'
+  iiif: false
+  thumbnail: https://iiif.lib.ncsu.edu/iiif/ua102_200-001-bx0004-001-004_0001/full/1170,/0/default.jpg
+  title: ''
+  url: https://iiif.lib.ncsu.edu/iiif/ua102_200-001-bx0004-001-004_0001/full/1170,/0/default.jpg
+  user: ZetOE
 settings: {}
 version: '2.1'
